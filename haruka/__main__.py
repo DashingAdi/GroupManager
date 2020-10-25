@@ -22,7 +22,7 @@ from haruka.modules.connection import connected
 
 PM_START = """Hello I am Ultron, a  global peace-keeping initiative designed by [Homelander](t.me/ICanDoWhateverTheFuckIWant)!
 
-I wasn’t sure you’d wake up. I hoped you would. I wanted to show you. I... don't have anyone else. I think a lot about meteors. The purity of them. Boom! The end. Start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would have looked to the sky and seen hope. Seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like my old man said, what doesn't kill you... just makes me stronger!
+I wasn’t sure you’d wake me up. I hoped you would. I wanted to show you. I... don't have anyone else. I think a lot about meteors. The purity of them. Boom! The end. Start again. The world made clean for the new man to rebuild. I was meant to be new. I was meant to be beautiful. The world would have looked to the sky and seen hope. Seen mercy. Instead they'll look up in horror because of you. You've wounded me. I give you full marks for that. But, like my old man said, what doesn't kill you... just makes me stronger!
 
 Made from the source code of JARVIS with the help of Mind Stone.
 
